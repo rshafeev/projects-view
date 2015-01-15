@@ -13,6 +13,12 @@
 * Технологии: MFC + opengl
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/island-scene
 
+###Navigation System ###
+* Год разработки: 2009-2010
+* Основные языки: С++
+* Технологии: MFC, TCP/IP
+* Репозиторий: https://bitbucket.org/Roman_Shafeyev/navsystem
+
 ###3d Terrain generator ###
 * Год разработки: 2009
 * Основные языки: С++
