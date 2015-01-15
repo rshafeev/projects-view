@@ -4,7 +4,7 @@
 * Основные языки: С++,Java
 * Технологии: MFC, Anylogic 6.6, OSM, Excel, Access
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/route-builder
-* [Презентации]https://bitbucket.org/Roman_Shafeyev/route-builder)
+* [Презентации](https://bitbucket.org/Roman_Shafeyev/route-builder)
 
 ###Numerical simulation of the motion of celestial bodies ###
 * Год разработки:  2009-2010
