@@ -9,6 +9,8 @@
 
 ###3d Island Scene ###
 * Год разработки: 2010
+* Основные языки: С++
+* Технологии: MFC + opengl
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/island-scene
 
 ###3d Terrain generator ###
