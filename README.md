@@ -8,7 +8,11 @@
 
 ###3d Island Scene ###
 * Год разработки: 2010
-* Репозиторий: https://bitbucket.org/Roman_Shafeyev/island-scene/
+* Репозиторий: https://bitbucket.org/Roman_Shafeyev/island-scene
+
+###3d Terrain generator ###
+* Год разработки: 2009
+* Репозиторий: https://bitbucket.org/Roman_Shafeyev/terrain-generator
 
 ###Terrain Scene ###
 * Год разработки: 2008
