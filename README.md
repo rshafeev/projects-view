@@ -16,8 +16,8 @@
          * [Код JS библиотеки для клиента](https://bitbucket.org/cityways/busweb/src/03a33770a9736e2d0a8d58cbb88025a9adfb4946/src/main/js/?at=master)
       2. [BusWeb.admin](https://bitbucket.org/cityways/busweb-admin) - Сайт админки
       3. [BusWeb.data](https://bitbucket.org/cityways/busweb-data) - Модуль работы с БД
-      4. [BusWeb.conf]() - Репозиторий с SQL кодом процедур и функций
-         * [pl/pgSQL код функций оптимального поиска маршрутов]()
+      4. [BusWeb.conf](https://bitbucket.org/cityways/busweb-conf) - Репозиторий с SQL кодом процедур и функций
+         * [pl/pgSQL код функций оптимального поиска маршрутов](https://bitbucket.org/cityways/busweb-conf/src/6b255db159971684364922ef068f5b4fb646c3b8/sql/scripts/?at=master)
       5. [BusWeb.net]() - Модуль хранит в себе поддерживающие сериализацию модели, передаваемые по сети
 
 
