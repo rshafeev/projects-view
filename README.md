@@ -7,7 +7,7 @@
 * База данных: Postgresql
 * Репозитории:
 
-      1. BusWeb 
+      1. BusWeb https://bitbucket.org/cityways/busweb
          * Основной сайт
       2. BusWeb.admin
          * Сайт админки
