@@ -34,7 +34,7 @@
 * Основные языки: С++,Java
 * Технологии: MFC, Anylogic 6.6, OSM, Excel, Access
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/route-builder
-* [Презентации](https://bitbucket.org/Roman_Shafeyev/route-builder)
+* [Презентации](https://bitbucket.org/Roman_Shafeyev/route-builder/src/18341e8fd71a94346f5df74c90696f957120c199/docs/)
 
 ###Numerical simulation of the motion of celestial bodies ###
 * Год разработки:  2009-2010
@@ -54,7 +54,7 @@
 * Основные языки: С++
 * Технологии: MFC, TCP/IP
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/navsystem
-
+* [Презентация и пояснительная записка](https://bitbucket.org/Roman_Shafeyev/navsystem/src/1eac58dfffbfe39de8d2eb5c61eaac4b3599f04f/docs/?at=master)
 ###3d Terrain generator ###
 * Год разработки: 2009
 * Основные языки: С++
