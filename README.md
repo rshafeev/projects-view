@@ -6,11 +6,11 @@
 * Технологии: Spring MVC, JDBC, Google Maps API, etc
 * База данных: Postgresql
 * ####Репозитории:####
-** BusWeb 
-** BusWeb.admin
-** BusWeb.data
-** BusWeb.conf
-** BusWeb.net
+  * BusWeb 
+  * BusWeb.admin
+  * BusWeb.data
+  * BusWeb.conf
+  * BusWeb.net
 
 
 ###SaveData###
