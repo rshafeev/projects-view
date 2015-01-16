@@ -27,7 +27,7 @@
 * Год разработки: 2012
 * Язык: Matlab
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/productive-transformator
-
+* [Пояснительная записка](https://bitbucket.org/Roman_Shafeyev/productive-transformator/src/08c8ef23bd4c435429c1533ddc86fbbb2cc555d5/docs/?at=master)
 
 ###Routing Builder###
 * Год разработки:  2011
