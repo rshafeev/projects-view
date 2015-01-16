@@ -5,8 +5,8 @@
 * Основные языки: Java, Javascript, pl/pgSQL
 * Технологии: Spring MVC, JDBC, Google Maps API, etc
 * База данных: Postgresql
-* ####Репозитории:####
-  * BusWeb 
+* Репозитории:
+⋅⋅* BusWeb 
   * BusWeb.admin
   * BusWeb.data
   * BusWeb.conf
