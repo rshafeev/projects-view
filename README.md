@@ -74,8 +74,16 @@
 * Технологии: MFC + opengl + shaders
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/terrain-generator
 
+#See demonstration video:#
+#Part I#
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/5is1VMlSnUQ/0.jpg)](https://www.youtube.com/watch?v=5is1VMlSnUQ)
+#Part II#
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/nT-fF0_rEm4/0.jpg)](https://www.youtube.com/watch?v=nT-fF0_rEm4)
+ 
 ###Terrain Scene ###
 * Год разработки: 2008
 * Основные языки: С++
 * Технологии: MFC + opengl + shaders
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/terrain-scene
+
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/PcpdO9eGPrI/0.jpg)](https://www.youtube.com/watch?v=PcpdO9eGPrI)
