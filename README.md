@@ -22,6 +22,7 @@
          * [pl/pgSQL код функций оптимального поиска маршрутов](https://bitbucket.org/cityways/busweb-conf/src/6b255db159971684364922ef068f5b4fb646c3b8/sql/scripts/?at=master)
       5. [BusWeb.net](https://bitbucket.org/cityways/busweb-net) - Модуль хранит модели, поддерживающие сериализацию , передаваемые по сети
 
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/OXCa7x85nTk/0.jpg)](https://www.youtube.com/watch?v=OXCa7x85nTk)
 
 ###Productive Transformator###
 * Год разработки: 2012
