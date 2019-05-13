@@ -37,6 +37,8 @@
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/route-builder
 * [Презентации](https://bitbucket.org/Roman_Shafeyev/route-builder/src/18341e8fd71a94346f5df74c90696f957120c199/docs/)
 
+[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/ZyzYDhluSdE/0.jpg)](http://www.youtube.com/watch?v=ZyzYDhluSdE)
+
 ###Numerical simulation of the motion of celestial bodies ###
 * Год разработки:  2009-2010
 * Основные языки: С++
