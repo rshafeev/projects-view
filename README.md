@@ -46,6 +46,9 @@
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/planet-system-software
 * [Презентация и пояснительная записка](https://bitbucket.org/Roman_Shafeyev/planet-system-software/src/3cba7913f912f0ec98543fe51f1015e3175eb809/docs/?at=master)
 
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/3UbdscY4MOM/0.jpg)](http://www.youtube.com/watch?v=3UbdscY4MOM)
+
+
 ###3d Island Scene ###
 * Год разработки: 2010
 * Основные языки: С++
