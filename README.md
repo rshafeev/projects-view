@@ -64,6 +64,10 @@
 * Технологии: MFC, TCP/IP
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/navsystem
 * [Презентация и пояснительная записка](https://bitbucket.org/Roman_Shafeyev/navsystem/src/1eac58dfffbfe39de8d2eb5c61eaac4b3599f04f/docs/?at=master)
+
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/jWkSbgRwfmw/0.jpg)](http://www.youtube.com/watch?v=jWkSbgRwfmw)
+
+
 ###3d Terrain generator ###
 * Год разработки: 2009
 * Основные языки: С++
