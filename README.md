@@ -55,6 +55,9 @@
 * Технологии: MFC + opengl
 * Репозиторий: https://bitbucket.org/Roman_Shafeyev/island-scene
 
+ [![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/Wg405HbXGsw/0.jpg)](https://www.youtube.com/watch?v=Wg405HbXGsw)
+
+
 ###Navigation System ###
 * Год разработки: 2009-2010
 * Основные языки: С++
