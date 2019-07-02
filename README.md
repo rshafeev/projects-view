@@ -5,7 +5,7 @@
 ###SaveData###
 * Год разработки: 2014
 * Язык: Python
-* Репозиторий: https://bitbucket.org/iu-sysutils/sysutils.savedata
+* Репозиторий: https://github.com/rshafeev/sysutils.savedata
 
 ###CityWays - Public transport###
 * Год разработки: 2012-2013
